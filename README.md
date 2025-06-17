@@ -3,8 +3,8 @@
 # Содержание
 * [Главная](https://github.com/WrapAndKit/testing_itmo_2024/blob/main/README.md)
 * [Вспомогательный материал](https://github.com/WrapAndKit/testing_itmo_2024/blob/main/support.md)
-* [Вопросы к зачету](https://github.com/WrapAndKit/testing_itmo_24/blob/main/2_semester/questions.md)
-* 
+* [Вопросы к зачету](https://github.com/WrapAndKit/testing_itmo_24/blob/main/questions.md)
+  
 # Зачет
 Для успешного освоения курса необходимо:
 
